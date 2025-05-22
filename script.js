@@ -78,8 +78,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Tribulus + Maca Peruana 60cap', unit: 15.43, tag: '' },
         { desc: 'Uxi Amarelo + Unha de Gato 60cap', unit: 15.29, tag: '' },
         { desc: 'Valeriana 60cap', unit: 20.21, tag: '' },
-        { desc: 'Concentrado de Inhame - 250ml', unit: 8.35, tag: 'chá' },
-        { desc: 'Ora Pro Nóbis Chá Pronto - 250ml', unit: 8.45, tag: 'chá' }
+        { desc: 'Concentrado de Inhame - 250ml', unit: 9.51, tag: 'chá' },
+        { desc: 'Ora Pro Nóbis Chá Pronto - 250ml', unit: 9.62, tag: 'chá' }
       ]
     }
   ];
