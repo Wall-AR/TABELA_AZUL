@@ -1,7 +1,7 @@
 /* styles.css */
 :root {
-  --color-reavita: #FF9900;
-  --color-purafor: #990000;
+  --color-reavita: #009999;
+  --color-purafor: #009999;
   --row-alt: #e0e0e0;
   --row-base: #ffffff;
   --bg-light: #fafafa;
@@ -10,7 +10,7 @@
   --text-dark: #eee;
   --tag-cha: #a5d6a7;
   --tag-text: #000;
-  --banner-bg: #990000;
+  --banner-bg: #009999;
 }
 
 body {
