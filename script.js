@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Morofor 120caps', unit: 22.98, tag: 'novo' },
         { desc: 'Melatonina com Triptofano 30caps', unit: 24.98, tag: '' },
         { desc: 'Magnésio Dimalato 60caps', unit: 18.47, tag: '' },
+        { desc: 'Magnésio L-Treonato 60caps', unit: 18.18, tag: '' },
         { desc: 'Magnésio L-Treonato Blister 30caps', unit: 22.52, tag: '' },
         { desc: 'Magnésio Quelato 60caps', unit: 16.89, tag: '' },
         { desc: 'Memo Ative 30caps', unit: 15.65, tag: '' },
