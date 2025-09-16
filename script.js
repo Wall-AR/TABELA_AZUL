@@ -20,7 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Cúrcuma Longa com Curcumina 60caps', unit: 18.76, tag: '' },
         { desc: 'Caffeine 60caps - Microencapsulada 200mg Softgel', unit: 23.53, tag: '' },
         { desc: 'CO-MAG 60caps', unit: 29.61, tag: 'novo' },
-        { desc: 'Derma B -Biotina Gummy 30gomas-Morango', unit: 40.75, tag: 'ultimo-lote' },
         { desc: 'D3 + K2 30caps - 2000UI / 159mcg', unit: 13.56, tag: '' },
         { desc: 'Ferrofor + C 60caps', unit: 14.88, tag: '' },
         { desc: 'Feno Grego 60caps', unit: 15.72, tag: '' },
@@ -74,10 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'L-Treonato Magnésio 60cap', unit: 18.18, tag: '' },
         { desc: 'Maca Peruana Negra 60cap', unit: 19.19, tag: '' },
         { desc: 'Mais Ativa 60cap', unit: 14.42, tag: '' },
-        { desc: 'Óleo de Abacate 1000mg 60cap', unit: 22.87, tag: 'ultimo-lote' },
-        { desc: 'Óleo de Alho 500mg 60cap', unit: 17.21, tag: '' },
         { desc: 'Óleo de Copaíba 1000mg 60cap', unit: 21.65, tag: 'novo' },
-        { desc: 'Óleo de Semente de Abóbora 1000mg 60cap', unit: 29.39, tag: 'ultimo-lote' },
         { desc: 'Óleo de Sucupira 1000mg 60cap', unit: 20.20, tag: 'novo' },
         { desc: 'Ora Pro Nóbis 60cap', unit: 15.87, tag: '' },
         { desc: 'Seca Barriga com Laranja MORO 60cap', unit: 16.30, tag: '' },
@@ -162,6 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
