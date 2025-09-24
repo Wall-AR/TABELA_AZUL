@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Reforce Hair 60 caps', unit: 25.56, tag: '' },
         { desc: '3 Magnésios 30 Caps', unit: 15.61, tag: '' },
         { desc: 'Cálcio MDK + Z 60caps (Cálcio, Magnésio, Vit.D, Vit.K, Zinco)', unit: 21.66, tag: '' },
+        { desc: 'Carbonato de Cálcio 60 Caps', unit: 16.14, tag: 'Novo' },
         { desc: 'Coenzima Q10 200mg com vitamina E 30caps', unit: 33.39, tag: '' },
         { desc: 'Creatina Xtra 300G', unit: 47.06, tag: 'novo' },
         { desc: 'CO-Creatin 300g (Creatina com coenzima + vitaminas) Sabor Laranja', unit: 68.40, tag: '' },
@@ -26,6 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Morofor 120caps', unit: 22.98, tag: 'novo' },
         { desc: 'Melatonina com Triptofano 30caps', unit: 24.98, tag: '' },
         { desc: 'Magnésio Dimalato 60caps', unit: 18.47, tag: '' },
+        { desc: 'Magnésio Inositol 210g - Maracujá', unit: 50.13, tag: 'Novo' },
         { desc: 'Magnésio L-Treonato 60caps', unit: 18.18, tag: '' },
         { desc: 'Magnésio L-Treonato Blister 30caps', unit: 22.52, tag: '' },
         { desc: 'Magnésio Quelato 60caps', unit: 16.89, tag: '' },
@@ -158,6 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
