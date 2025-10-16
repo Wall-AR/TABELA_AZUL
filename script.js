@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Coenzima Q10 200mg com vitamina E 30caps', unit: 33.39, tag: '' },
         { desc: 'Creatina Xtra 300G', unit: 47.06, tag: 'novo' },
         { desc: 'CO-Creatin 300g (Creatina com coenzima + vitaminas) Sabor Laranja', unit: 68.40, tag: '' },
+        { desc: 'Creatina Gummies - Uva verde 40gomas', unit: 74.79, tag: 'novo' },
         { desc: 'Colágeno Tipo 2 60cap', unit: 17.36, tag: 'novo' },
         { desc: 'Curcumina com colágeno tipo 2 30ml - Gotas', unit: 18.76, tag: 'gotas' },
         { desc: 'Cúrcuma Longa com Curcumina 60caps', unit: 18.76, tag: '' },
@@ -24,6 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'D3 + K2 30caps - 2000UI / 159mcg', unit: 13.56, tag: '' },
         { desc: 'Ferrofor + C 60caps', unit: 14.88, tag: '' },
         { desc: 'Feno Grego 60caps', unit: 15.72, tag: '' },
+        { desc: 'GABA 400 60caps', unit: 17.58, tag: 'novo' }
         { desc: 'Morofor 120caps', unit: 22.98, tag: 'novo' },
         { desc: 'Melatonina com Triptofano 30caps', unit: 24.98, tag: '' },
         { desc: 'Magnésio Dimalato 60caps', unit: 18.47, tag: '' },
@@ -160,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
