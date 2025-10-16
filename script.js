@@ -102,8 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
      const col = document.createElement('col');
      col.style.width = w;
      colgroup.appendChild(col);
- });
-
+    });
     tbl.appendChild(colgroup);
 
     const bannerRow = document.createElement('tr');
@@ -162,6 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
