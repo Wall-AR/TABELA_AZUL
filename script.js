@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'D3 + K2 30caps - 2000UI / 159mcg', unit: 13.56, tag: '' },
         { desc: 'Ferrofor + C 60caps', unit: 14.88, tag: '' },
         { desc: 'Feno Grego 60caps', unit: 15.72, tag: '' },
-        { desc: 'GABA 400 60caps', unit: 17.58, tag: 'novo' }
+        { desc: 'GABA 400 60caps', unit: 17.58, tag: 'novo' },
         { desc: 'Morofor 120caps', unit: 22.98, tag: 'novo' },
         { desc: 'Melatonina com Triptofano 30caps', unit: 24.98, tag: '' },
         { desc: 'Magnésio Dimalato 60caps', unit: 18.47, tag: '' },
@@ -161,6 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
