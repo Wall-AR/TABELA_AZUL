@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Magnésio L-Treonato 60caps', unit: 18.18, tag: '' },
         { desc: 'Magnésio L-Treonato Blister 30caps', unit: 22.52, tag: '' },
         { desc: 'Magnésio Quelato 60caps', unit: 16.89, tag: '' },
+        { desc: 'Magnésio Soft 60caps', unit: 10.96, tag: 'novo' },
         { desc: 'Memo Ative 30caps', unit: 15.65, tag: '' },
         { desc: 'Melatokalm Gotas Sabor Maracujá 30ml (Melatonina)', unit: 18.33, tag: 'novo' },
         { desc: 'Mag 6 60caps (seis magnésios)', unit: 16.45, tag: '' },
@@ -161,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
