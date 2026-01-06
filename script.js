@@ -62,35 +62,32 @@ document.addEventListener('DOMContentLoaded', () => {
       logo: 'images/reavita-logo.png',
       colorVar: '--color-reavita',
       items: [
-        { desc: 'Amargo Detox 60cap', unit: 13.94, tag: '' },
-        { desc: 'Ashwagandha 60caps', unit: 19.36, tag: 'novo' },
-        { desc: 'Amora Miúra 60cap', unit: 15.00, tag: '' },
-        { desc: 'Amora com Isoflavona 60cap', unit: 15.15, tag: '' },
-        { desc: 'Calmim 60cap', unit: 16.78, tag: '' },
-        { desc: 'Canela de Velho + Sucupira 60cap', unit: 15.30, tag: '' },
-        { desc: 'Carvão Vegetal 60cap', unit: 14.56, tag: '' },
-        { desc: 'Castanha da Índia 60cap', unit: 16.59, tag: '' },
-        { desc: 'Cloreto de Magnésio PA 60cap', unit: 14.43, tag: '' },
-        { desc: 'Cloreto de Magnésio PA + Sucupira 60cap', unit: 15.98, tag: '' },
+        { desc: 'Amargo Detox 60cap', unit: 15.19, tag: '' },
+        { desc: 'Ashwagandha 60caps', unit: 21.04, tag: 'novo' },
+        { desc: 'Amora Miúra 60cap', unit: 17.52, tag: '' },
+        { desc: 'Amora com Isoflavona 60cap', unit: 17.01, tag: '' },
+        { desc: 'Calmim 60cap', unit: 17.96, tag: '' },
+        { desc: 'Canela de Velho + Sucupira 60cap', unit: 16.19, tag: '' },
+        { desc: 'Carvão Vegetal 60cap', unit: 16.87, tag: '' },
+        { desc: 'Castanha da Índia 60cap', unit: 16.96, tag: '' },
+        { desc: 'Cloreto de Magnésio PA 60cap', unit: 16.38, tag: '' },
+        { desc: 'Cloreto de Mag  nésio PA + Sucupira 60cap', unit: 16.06, tag: '' },
         { desc: 'Colágeno Hidrolisado 60cap', unit: 16.06, tag: '' },
-        { desc: 'Colágeno Tipo 2 60cap', unit: 20.86, tag: 'ultimo-lote' },
-        { desc: 'Cúrcuma 95% + Pimenta Preta 60cap', unit: 14.57, tag: '' },
+        { desc: 'Cúrcuma 95% + Pimenta Preta 60cap', unit: 16.88, tag: '' },
         { desc: 'Espinheira Santa 60cap', unit: 15.14, tag: '' },
-        { desc: 'Ginkgo Biloba 60cap', unit: 16.16, tag: '' },
-        { desc: 'Ginkgo + Castanha 60cap', unit: 16.74, tag: '' },
-        { desc: 'L-Treonato Magnésio 60cap', unit: 18.18, tag: '' },
-        { desc: 'Maca Peruana Negra 60cap', unit: 19.19, tag: '' },
-        { desc: 'Mais Ativa 60cap', unit: 14.42, tag: '' },
-        { desc: 'Óleo de Copaíba 1000mg 60cap', unit: 21.65, tag: 'novo' },
-        { desc: 'Óleo de Sucupira 1000mg 60cap', unit: 20.20, tag: 'novo' },
-        { desc: 'Ora Pro Nóbis 60cap', unit: 15.87, tag: '' },
-        { desc: 'Seca Barriga com Laranja MORO 60cap', unit: 16.30, tag: '' },
-        { desc: 'Tibulus Terrestris 40% 60cap', unit: 15.87, tag: '' },
-        { desc: 'Tribulus + Maca Peruana 60cap', unit: 15.43, tag: '' },
-        { desc: 'Uxi Amarelo + Unha de Gato 60cap', unit: 15.29, tag: '' },
-        { desc: 'Valeriana 60cap', unit: 20.21, tag: '' },
-        { desc: 'Concentrado de Inhame - 250ml', unit: 9.51, tag: 'chá' },
-        { desc: 'Ora Pro Nóbis Chá Pronto - 250ml', unit: 9.62, tag: 'chá' }
+        { desc: 'Ginkgo Biloba 60cap', unit: 16.89, tag: '' },
+        { desc: 'Ginkgo + Castanha 60cap', unit: 18.33, tag: '' },
+        { desc: 'L-Treonato Magnésio 60cap', unit: 19.52, tag: '' },
+        { desc: 'Maca Peruana Negra 60cap', unit: 18.65, tag: '' },
+        { desc: 'Mais Ativa 60cap', unit: 16.41, tag: '' },
+        { desc: 'Óleo de Copaíba 1000mg 60cap', unit: 23.33, tag: 'novo' },
+        { desc: 'Óleo de Sucupira 1000mg 60cap', unit: 22.39, tag: 'novo' },
+        { desc: 'Ora Pro Nóbis 60cap', unit: 17.11, tag: '' },
+        { desc: 'Seca Barriga com Laranja MORO 60cap', unit: 16.81, tag: '' },
+        { desc: 'Tibulus Terrestris 40% 60cap', unit: 16.19, tag: '' },
+        { desc: 'Tribulus + Maca Peruana 60cap', unit: 16.24, tag: '' },
+        { desc: 'Uxi Amarelo + Unha de Gato 60cap', unit: 16.18, tag: '' },
+        { desc: 'Valeriana 60cap', unit: 19.72, tag: '' },
       ]
     }
   ];
@@ -165,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
