@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
       logo: 'images/purafor-logo.png',
       colorVar: '--color-purafor',
       items: [
-        { desc: 'Artrion 60caps', unit: 37.79, tag: '' },
+        { desc: 'Artrion 60caps ', unit: 37.79, tag: '' },
         { desc: 'Biotina em Gotas 30ml - Tutti Frutti', unit: 18.00, tag: 'gotas' },
         { desc: 'Beauty Blend 200g - Frutas Vermelhas', unit: 57.53, tag: '' },
         { desc: 'Reforce Hair 60 caps', unit: 25.65, tag: '' },
@@ -162,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
