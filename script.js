@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Creatina Xtra 300G', unit: 51.02, tag: 'novo' },
         { desc: 'CO-Creatin 300g (Creatina com coenzima + vitaminas) Sabor Laranja', unit: 57.54, tag: '' },
         { desc: 'Creatina Gummies - Uva verde 40gomas', unit: 74.79, tag: 'novo' },
-        { desc: 'Colágeno Tipo 2 60cap', unit: 19.79, tag: 'novo' },
+        { desc: 'Colágeno Tipo 2 30cap', unit: 19.79, tag: 'novo' },
         { desc: 'CurcuMAX 95% - Cúrcuma com Pimenta Preta 60 caps - ÂMBAR', unit: 15.12, tag: 'novo' },
         { desc: 'Curcumina com colágeno tipo 2 30ml - Gotas', unit: 20.90, tag: 'gotas' },
         { desc: 'Cúrcuma Longa com Curcumina 60caps', unit: 23.08, tag: '' },
@@ -162,6 +162,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
