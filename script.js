@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { desc: 'Beauty Blend 200g - Frutas Vermelhas', unit: 57.53, tag: '' },
         { desc: 'Reforce Hair 60 caps', unit: 25.65, tag: '' },
         { desc: '3 Magnésios 30 Caps', unit: 18.10, tag: '' },
+        { desc: 'Cafeína + Beta Alanina Xtra 60caps', unit: 21.10, tag: 'novo' },
         { desc: 'Cálcio MDK + Z 60caps (Cálcio, Magnésio, Vit.D, Vit.K, Zinco)', unit: 20.93, tag: '' },
         { desc: 'Carbonato de Cálcio 60 Caps', unit: 16.14, tag: 'novo' },
         { desc: 'Coenzima Q10 200mg com vitamina E 30caps', unit: 36.79, tag: '' },
@@ -162,6 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.textContent = document.body.classList.contains('dark') ? 'Tema Claro' : 'Tema Escuro';
   });
 });
+
 
 
 
